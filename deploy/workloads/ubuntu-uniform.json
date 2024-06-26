@@ -1,0 +1,7 @@
+{
+  "benchmark_name" : "ubuntu-uniform",
+  "common_bootbinary" : "ubuntu-base-bin",
+  "common_rootfs"     : "ubuntu-base.img",
+  "common_outputs"    : ["/etc/os-release"],
+  "common_simulation_outputs" : ["uartlog"]
+}
